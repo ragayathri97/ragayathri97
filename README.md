@@ -54,9 +54,13 @@
 <p align="left">
     <a href="https://linkedin.com/in/gayathri r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayathri r" height="30" width="40" /></a>
     <a href="https://fb.com/ammugayathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammugayathri" height="30" width="40" /></a>
-     <a href="https://ragayathri97.github.io/Portfolio_gayathri/">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTA_oh_oJ_0vJVzwlaTbTOV7QojxSOwHWTtw&s" alt="Gayathri Portfolio" width="50px">&nbsp;
-  </a>
+     <a href="https://drive.google.com/file/d/13BA7G09xXkehQRoApOYZl7DNFlhipBEb/view?usp=sharing">
+    <img align="center" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" alt="Gayathri Resume" width="50px"></a>&nbsp;
+
+<a href="https://ragayathri97.github.io/Portfolio_gayathri/">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/942/942925.png" alt="Gayathri Portfolio" width="50px"></a>&nbsp;
+
+    
 
 </p>
 
