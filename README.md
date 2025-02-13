@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragayathri97&show_icons=true&theme=tokyonight"  alt="ragayathri97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragayathri97&show_icons=true&theme=tokyonight" alt="ragayathri97" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragayathri97&" alt="ragayathri97" /></p>
 </p>
 
 ---
