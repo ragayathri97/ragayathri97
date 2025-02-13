@@ -58,7 +58,7 @@
     <img align="center" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" alt="Gayathri Resume" width="50px"></a>&nbsp;
 
 <a href="https://ragayathri97.github.io/Portfolio_gayathri/">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/942/942925.png" alt="Gayathri Portfolio" width="40px"></a>&nbsp;
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/942/942925.png" alt="Gayathri Portfolio" width="35px"></a>&nbsp;
 
     
 
