@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 **Tech Stack**  🚀
-<p align="left" style="padding: 0 5px;">
+<p align="left" style="padding: 0 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,6 +54,10 @@
 <p align="left">
     <a href="https://linkedin.com/in/gayathri r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayathri r" height="30" width="40" /></a>
     <a href="https://fb.com/ammugayathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammugayathri" height="30" width="40" /></a>
+     <a href="https://venugopalburli-portfolio.netlify.app/">
+    <img align="center" src="https://ragayathri97.github.io/Portfolio_gayathri/" alt="Gayathri Portfolio" width="50px">&nbsp;
+  </a>
+
 </p>
 
 ---
